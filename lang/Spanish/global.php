@@ -89,7 +89,7 @@ define('modulemanager', "Módulos");
 define('server', "Servidores remotos");
 define('settings', "Opciones");
 define('themes', "Ajustes de tema");
-define('user_admin', "Usuários");
+define('user_admin', "Usuarios");
 define('sub_users', "Sub-Usuarios");
 define('show_groups', "Grupos");
 define('user_games', "Servidores de Juegos");
@@ -117,7 +117,9 @@ define('rcon', "RCON");
 define('watch_logger', "Ver Logger");
 define('litefm_settings', "Configuración LiteFM");
 define('assign_expiration_date', "Fecha de caducidad de la asignación");
-define('assign_expiration_date_info', "Una vez que caduca, el servidor dejará de ser propiedad del usuario/grupo, pero no será eliminado.");
+define('assign_expiration_date_info', "Una vez que caduca, el servidor dejará de ser propiedad del 
+
+io/grupo, pero no será eliminado.");
 define('server_expiration_date', "Fecha de caducidad del servidor");
 define('server_expiration_date_info', "Cuando expira, el servidor es eliminado (Base de datos y archivos).");
 define('set_expiration_date', "Fecha de caducidad");
